@@ -1,5 +1,5 @@
 # Бот Стетхем на Haskell
-Бот, который все запрещает, написанный для VK на Haskell
+[Бот](https://vk.com/stetbot), который все запрещает, написанный для VK на Haskell
 
 ![Стетхем](https://i.imgur.com/0h2iRXt.jpg)
 
